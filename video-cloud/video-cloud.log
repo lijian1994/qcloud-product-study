@@ -1,5 +1,0 @@
-2019-11-24 17:17:12.396  INFO 3944 --- [main] c.j.v.VideoCloudApplicationTests         : Starting VideoCloudApplicationTests on DESKTOP-4QDDM79 with PID 3944 (started by Admin in D:\WorkSpace\javaProject\video-cloud)
-2019-11-24 17:17:12.396  INFO 3944 --- [main] c.j.v.VideoCloudApplicationTests         : No active profile set, falling back to default profiles: default
-2019-11-24 17:17:13.856  INFO 3944 --- [main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
-2019-11-24 17:17:14.216  INFO 3944 --- [main] c.j.v.VideoCloudApplicationTests         : Started VideoCloudApplicationTests in 2.272 seconds (JVM running for 3.378)
-2019-11-24 17:17:14.481  INFO 3944 --- [Thread-2] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
