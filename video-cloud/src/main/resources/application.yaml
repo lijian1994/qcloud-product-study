@@ -1,0 +1,10 @@
+server:
+  port: 80
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/
+      suffix: .jsp
+logging:
+  file: video-cloud.log
+  max-size: 10MB
